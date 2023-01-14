@@ -15,7 +15,7 @@ def reply(first_chat):
 
 
 bot=telebot.TeleBot(<API TOKEN TELEGRAM BOT>)
-print('program started')
+print('Program started...')
 
 @bot.message_handler(func=lambda message: True)
 
@@ -23,7 +23,6 @@ print('program started')
 
 
 def reply_msg(message):
-    print(message.chat)
     username=message.chat.first_name
     user_id=message.chat.id
     first_chat=message.text
