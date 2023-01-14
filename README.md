@@ -18,7 +18,7 @@ This program runs on python.It uses two libraries.It use API for interacting wit
 
 # Libraries Used
 
-openai - 0.26.1
+openai - 0.26.1,
 pyTelegramBotAPI - 4.7.0
 
 # How to configure
