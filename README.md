@@ -20,5 +20,14 @@ pyTelegramBotAPI - 4.7.0
 
 # How to configure
 
-First set a telegram bot , for that go to telegram and type BotFather select the user with blue tick, next click Start button, then a number of options will be given from there select /newbot.Then choose a name for your bot and enter it.
+First install the necessary modules , for that copy the given commands and run it on the command prompt
+
+pip install openai
+pip install pyTelegramBotAPI
+
+Second set a telegram bot , for that go to telegram and type BotFather select the user with blue tick, next click Start button, then a number of options will be given from there select /newbot.Then choose a name for your bot and enter it.
 The bot will give you an API , copy it and paste in <API TOKEN TELEGRAM BOT>.After that log in in openai and get your own API and paste it in <API TOKEN OPENAI>.After making sure these procedures are done,save the file and run the program.
+
+# How to Run
+
+To run the file , download the file named 'main.py' and run it the python IDE
