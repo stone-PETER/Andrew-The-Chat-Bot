@@ -10,6 +10,9 @@ to provide intlligent reply to user. Telegram is a widely used messenger app, an
 Ffyiy2mhUwez530un5Pj
 # Link to product walkthrough
 
+G-Drive https://drive.google.com/file/d/1c4Mg_f_1UcGQZC0Qy3N23t88ADBo00VA/view
+
+
 # How it Works ?
 This program runs on python.It uses two libraries.It use API for interacting with the AI,the program takes output from the user through the telegram messages and reply the message using OpenAI.
 
